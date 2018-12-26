@@ -1,3 +1,8 @@
+#Run Commands
+npm install
+npm run start
+
+
 # Info Links:
 https://coursetro.com/posts/code/147/How-to-Install-RxJS---Setting-up-a-Development-Environment
 https://coursetro.com/posts/code/148/RxJS-Observables-Tutorial---Creating-&-Subscribing-to-Observables
