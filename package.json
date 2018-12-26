@@ -1,19 +1,22 @@
 {
-  "name": "rxjs",
+  "name": "rxjs-test",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --mode development"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "rxjs": "^5.5.7",
-    "ts-loader": "^4.1.0",
-    "typescript": "^2.7.2",
-    "webpack": "^4.2.0",
-    "webpack-dev-server": "^3.1.1"
+    "rxjs": "^6.2.2",
+    "ts-loader": "^4.4.2",
+    "typescript": "^2.9.2",
+    "webpack": "^4.16.1",
+    "webpack-dev-server": "^3.1.4"
   },
   "devDependencies": {
-    "webpack-cli": "^2.0.13"
+    "webpack-cli": "^3.1.0"
   }
 }
