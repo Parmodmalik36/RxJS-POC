@@ -5,11 +5,16 @@ npm run start
 
 # Info Links:
 https://coursetro.com/posts/code/147/How-to-Install-RxJS---Setting-up-a-Development-Environment
+
 https://coursetro.com/posts/code/148/RxJS-Observables-Tutorial---Creating-&-Subscribing-to-Observables
+
 https://coursetro.com/posts/code/149/RxJS-Subjects-Tutorial---Subjects,-BehaviorSubject,-ReplaySubject-&-AsyncSubject
+
 https://coursetro.com/posts/code/150/RxJS-Operators-Tutorial---Learn-How-to-Transform-Observables
+
 https://medium.com/codingthesmartway-com-blog/getting-started-with-rxjs-part-1-setting-up-the-development-environment-creating-observables-db76ce053725
 
+https://github.com/seeschweiler/rxjs-part1
 
 #Important Terms
 Observables
